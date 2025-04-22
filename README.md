@@ -1,8 +1,10 @@
-# 🤖 IA Universitária – Seu amigo inteligente
+# 🤖IA Universitária – Seu amigo inteligente
+Olá! Eu sou a **IA Universitária**, um projeto desenvolvido por [Thais Fernanda](https://www.linkedin.com/in/thaisferguedes/) para apoiar estudantes com respostas fundamentadas e cheias de referências!
+<p align="center">
+  <img src="./assets/chat-nanda.png" alt="IA Universitária em funcionamento" width="600"/>
+</p>
 
-Olá! 👋 Eu sou a **IA Universitária**, um projeto desenvolvido por [Thais Fernanda](https://www.linkedin.com/in/thaisferguedes/) para apoiar estudantes com respostas fundamentadas e cheias de referências!
-
-## 🧠 Sobre o projeto
+## Sobre o projeto
 
 Essa IA foi criada para ser uma **companheira de estudos**, que conversa em **português do Brasil**, com uma linguagem **leve, divertida e acessível**, mas sempre com **embasamento acadêmico sério**.  
 
@@ -49,7 +51,9 @@ Você pode conversar com a IA clicando no link abaixo:
 
 > ❓ “Explique o que é cibercultura segundo Pierre Lévy.”  
 ✅ Ela traz a definição correta e contextualiza com o livro **"Cibercultura"**, incluindo referência e link!
-
+<p align="center">
+  <img src="./assets/chat-resposta.png" alt="IA Universitária em funcionamento" width="500"/>
+</p>
 ---
 
 ## ✨ Diferenciais
